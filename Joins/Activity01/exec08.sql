@@ -1,0 +1,1 @@
+SELECT * FROM tb_personagens WHERE name LIKE "%c%";

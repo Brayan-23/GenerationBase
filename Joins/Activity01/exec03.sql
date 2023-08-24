@@ -1,0 +1,1 @@
+FOREIGN KEY (class) REFERENCES tb_classes(id)

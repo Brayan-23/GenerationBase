@@ -1,0 +1,1 @@
+SELECT * FROM tb_personagens WHERE points_power BETWEEN 1000 AND 2000;
